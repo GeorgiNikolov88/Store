@@ -1,0 +1,7 @@
+bread
+vegeable
+meat
+water
+chocolate
+milk
+Candy

@@ -1,0 +1,132 @@
+Item/s sold:Zavodski | Ammount: 1
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Hisar 500 ml | Ammount: 5
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Zavodski | Ammount: 20
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 0
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 1
+Item/s sold:Zavodski | Ammount: 18
+Item/s sold:Zavodski | Ammount: 6
+Item/s sold:Hisar 500 ml | Ammount: 15
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Zavodski | Ammount: 1
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Hisar 500 ml | Ammount: 15
+Item/s sold:Hisar 1 Liter | Ammount: 15
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 0
+Item/s sold:Zavodski | Ammount: 5
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Hisar 1 Liter | Ammount: 15
+Item/s sold:Hisar 500 ml | Ammount: 15
+Item/s sold:Hisar 500 ml | Ammount: 10
+Item/s sold:Hisar 1 Liter | Ammount: 1
+Item/s sold:Hisar 1 Liter | Ammount: 9
+Item/s sold:Zavodski | Ammount: 15
+Item/s sold:Zavodski | Ammount: 0
+Item/s sold:Zavodski | Ammount: 10
+Item/s sold:Hisar 500 ml | Ammount: 25
+Item/s sold:Hisar 1 Liter | Ammount: 25
+19.9.2018 г. 11:08:40 - Item/s sold:Zavodski | Ammount: 3
+19.9.2018 г. 11:11:51 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 11:12:20 - Item/s sold:water - Hisar 500 ml | Ammount: 1
+19.9.2018 г. 11:35:12 - Item/s sold:water - Hisar 1 Liter | Ammount: 1
+19.9.2018 г. 11:35:15 - Item/s sold:water - Hisar 1 Liter | Ammount: 5
+19.9.2018 г. 11:35:26 - Item/s sold:bread - Zavodski | Ammount: 5
+19.9.2018 г. 11:36:19 - Item/s sold:water - Hisar 500 ml | Ammount: 5
+19.9.2018 г. 11:36:27 - Item/s sold:water - Hisar 500 ml | Ammount: 5
+19.9.2018 г. 11:38:12 - Item/s sold:bread - Zavodski | Ammount: 5
+19.9.2018 г. 11:38:14 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 11:38:26 - Item/s sold:water - Hisar 1 Liter | Ammount: 5
+19.9.2018 г. 11:38:29 - Item/s sold:water - Hisar 1 Liter | Ammount: 6
+19.9.2018 г. 11:58:08 - Item/s sold:water - Hisar 500 ml | Ammount: 5
+19.9.2018 г. 11:58:42 - Item/s sold:water - Hisar 500 ml | Ammount: 5
+19.9.2018 г. 11:58:51 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 11:59:59 - Item/s sold:water - Hisar 500 ml | Ammount: 2
+19.9.2018 г. 12:00:27 - Item/s sold:water - Hisar 500 ml | Ammount: 0
+19.9.2018 г. 14:01:55 - Item/s sold:water - Hisar 500 ml | Ammount: 1
+19.9.2018 г. 14:02:00 - Item/s sold:water - Hisar 500 ml | Ammount: 1
+19.9.2018 г. 14:06:34 - Item/s sold:water - Hisar 1 Liter | Ammount: 1
+19.9.2018 г. 14:06:53 - Item/s sold:water - Hisar 1 Liter | Ammount: 0
+19.9.2018 г. 14:07:55 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 14:13:15 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 14:13:19 - Item/s sold:water - Hisar 500 ml | Ammount: 1
+19.9.2018 г. 14:13:20 - Item/s sold:water - Hisar 1 Liter | Ammount: 2
+19.9.2018 г. 14:35:39 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 14:35:44 - Item/s sold:water - Hisar 500 ml | Ammount: 1
+19.9.2018 г. 14:36:51 - Item/s sold:water - Hisar 1 Liter | Ammount: 1
+19.9.2018 г. 14:39:26 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 14:39:40 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 14:41:32 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 14:42:03 - Item/s sold:water - Hisar 1 Liter | Ammount: 0
+19.9.2018 г. 14:50:43 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 14:51:08 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 14:51:11 - Item/s sold:water - Hisar 1 Liter | Ammount: 5
+19.9.2018 г. 15:17:08 - Item/s sold:bread - Zavodski | Ammount: 2
+19.9.2018 г. 15:31:12 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 15:34:57 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 15:48:01 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 16:03:34 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 16:08:40 - Item/s sold:bread - Zavodski | Ammount: 1
+19.9.2018 г. 16:08:46 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 16:09:47 - Item/s sold:water - Hisar 1 Liter | Ammount: 1
+19.9.2018 г. 16:09:50 - Item/s sold:bread - Zavodski | Ammount: 6
+19.9.2018 г. 16:10:36 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 16:10:57 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 16:14:24 - Item/s sold:bread - Zavodski | Ammount: 0
+19.9.2018 г. 16:15:22 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:12:27 - Item/s sold:bread - Zavodski | Ammount: 2
+20.9.2018 г. 10:12:30 - Item/s sold:water - Hisar 500 ml | Ammount: 3
+20.9.2018 г. 10:13:11 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:14:38 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:16:50 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:17:58 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:18:59 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:34:35 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:35:16 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:40:32 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 10:44:17 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 11:14:33 - Item/s sold:water - Hisar 1 Liter | Ammount: 1
+20.9.2018 г. 11:19:58 - Item/s sold:bread - Zavodski | Ammount: 2
+20.9.2018 г. 11:21:18 - Item/s sold:bread - Zavodski | Ammount: 5
+20.9.2018 г. 11:21:21 - Item/s sold:water - Hisar 1 Liter | Ammount: 5
+20.9.2018 г. 11:22:00 - Item/s sold:bread - Zavodski | Ammount: 3
+20.9.2018 г. 11:22:08 - Item/s sold:water - Hisar 1 Liter | Ammount: 3
+20.9.2018 г. 13:03:22 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:05:04 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:08:32 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:10:05 - Item/s sold:water - Hisar 1 Liter | Ammount: 5
+20.9.2018 г. 13:10:08 - Item/s sold:bread - Zavodski | Ammount: 2
+20.9.2018 г. 13:13:37 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:19:39 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:21:46 - Item/s sold:bread - Zavodski | Ammount: 0
+20.9.2018 г. 13:22:56 - Item/s sold:bread - Zavodski | Ammount: 0
+25.9.2018 г. 15:42:00 - Item/s sold:bread - Zavodski | Ammount: 2
+25.9.2018 г. 15:42:03 - Item/s sold:water - Hisar 1 Liter | Ammount: 3
+26.9.2018 г. 14:23:28 - Item/s sold:bread - Zavodski | Ammount: 2
+26.9.2018 г. 14:23:54 - Item/s sold:water - Hisar500ml | Ammount: 0
+27.9.2018 г. 12:50:09 - Item/s sold:Candy - Holyday | Ammount: 2
+27.9.2018 г. 12:50:13 - Item/s sold:milk - Olimpus_2l | Ammount: 1
+27.9.2018 г. 14:20:27 - Брой продадени:Candy - Holyday | Наличност: 0
+27.9.2018 г. 14:33:30 - Брой продадени:Candy - Holyday | Наличност: 0
+27.9.2018 г. 14:34:05 - Брой продадени:Candy - Holyday | Наличност: 2
+27.9.2018 г. 14:45:34 - Брой продадени:Candy - Holyday | Наличност: 2
+27.9.2018 г. 14:46:40 - Брой продадени:milk - Olimpus_2l | Наличност: 1
+27.9.2018 г. 14:58:09 - Брой продадени:bread - Zavodski | Наличност: 1 
+27.9.2018 г. 14:59:39 - Брой продадени:bread - Zavodski | Наличност: 1 
+27.9.2018 г. 15:00:39 - Брой продадени:bread - Zavodski | Наличност: 1 
+27.9.2018 г. 15:02:07 - Item/s sold:bread - Tipov | Ammount: 1
+27.9.2018 г. 15:15:05 - Брой продадени:bread - Tipov | Наличност: 2 
+27.9.2018 г. 15:15:52 - Брой продадени:bread - Tipov | Наличност: 2 
+27.9.2018 г. 15:18:59 - Брой продадени:bread - Tipov | Наличност: 2  | Цена 2.4
+27.9.2018 г. 15:23:50 - Брой продадени:bread - Zavodski | Наличност: 2  | Цена: 2.4
+28.9.2018 г. 9:58:40 - Брой продадени:bread - Tipov | Наличност: 2  | Цена: 2.4
+28.9.2018 г. 9:58:50 - Брой продадени:milk - Olimpus_2l | Наличност: 2  | Цена: 4.8
+11.10.2018 г. 14:15:40 - Item/s sold:bread - Tipov | Ammount: 1 | Price: 1.2
