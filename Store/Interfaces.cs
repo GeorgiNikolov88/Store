@@ -177,6 +177,7 @@ namespace Store
             "3) Излизане без поръчване на нова стока"                                                                                //78
 
         };
+
         public static List<string> SelectInterface() 
         {
             List<string> selectedInterface = new List<string>();

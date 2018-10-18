@@ -16,6 +16,7 @@ namespace Store
             }
             return answer;
         }
+
         //Проверка коретността за различните типове числени типове 
         public static int CheckIfInt()
         {
@@ -54,6 +55,7 @@ namespace Store
             return input;
         }
 
+        //Проверка за съществуването да даден хранителен тип от foodType списъка в Product.cs
         public static int CheckTypeInput(int currentValue)
         {
             for (int i = 0; i < Product.foodType.Count; i++)

@@ -98,10 +98,7 @@ namespace Store
                 Console.WriteLine(Startup.languageInterface[25]);
             }
             return list;
-        }        
-
-        //Проверка за съществуването да даден хранителен тип от foodType списъка в Product.cs
-        
+        }
 
         //Проверка дали обекта съществува
         private string CheckIfItemExists(string brand, List<Product> list)
@@ -158,7 +155,6 @@ namespace Store
             {
                 Console.WriteLine(Startup.languageInterface[34]);                
             }
-
             return tempProperty;
         }
 

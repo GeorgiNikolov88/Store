@@ -123,7 +123,6 @@ namespace Store
                         foodType.RemoveAt(itemToRemove);
                         answer = ConsoleKey.Escape;
                     }
-
                 }
                 else
                 {
@@ -178,7 +177,6 @@ namespace Store
                     insertPassword = Console.ReadLine();
                 }
             }
-
         }
 
         public static string GetListItem(int index)
@@ -199,6 +197,5 @@ namespace Store
         public Product()
         {
         }
-
     }
 }

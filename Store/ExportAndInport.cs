@@ -10,8 +10,7 @@ namespace Store
     {
         //Метод за записване на всички елементи от списъка с обекти и наличните пари в текстови файл
         public static void ExportStoreDataToFiles(List<Product> productList)
-        {
-            //Записване на наличните продукти в текстови файл
+        {            
             using (StreamWriter writer = new StreamWriter("files/Products.txt"))
             { 
                 foreach (var product in productList)
@@ -20,12 +19,10 @@ namespace Store
                 }
                 
             }
-            //Записване на информацията за наличните пари на магазина в текстови файл 
             using (StreamWriter writer = new StreamWriter("files/ShopCash.txt"))
             {
                 writer.WriteLine(Startup.shopCash);
             }
-            //Записване на видовете продукти в текстови файл
             using (StreamWriter writer = new StreamWriter("files/ProductTypes.txt"))
             {
                 foreach (var foodType in Product.foodType)
@@ -37,8 +34,7 @@ namespace Store
 
         //Внасяне на инвентара на магазина и наличните пари от текстови файл
         public List<Product> ImportStoreDataFromFiles()
-        {
-            //Внасяне на наличните продукти в магазина от текстови файл
+        {            
             List<Product> productList = new List<Product>();
             string line;
             using (StreamReader reader = new StreamReader("files/Products.txt"))
@@ -52,12 +48,10 @@ namespace Store
                     }                    
                 }
             }
-            //Внасяне на информация за наличните пари на магазина от текстови файл 
             using (StreamReader reader = new StreamReader("files/ShopCash.txt"))
             {
                 Startup.shopCash = Convert.ToDecimal(reader.ReadLine());
             }
-            //Внасяне на видовете продукти от текстови файл
             using (StreamReader reader = new StreamReader("files/ProductTypes.txt"))
             {
                 while ((line = reader.ReadLine()) != null)
